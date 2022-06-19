@@ -4,4 +4,4 @@ import math
 def main(a,b):
 # Return the modulus of a and b.
     return abs(a%b)
-print(main(-27,-8))
+print(main(27,8))
