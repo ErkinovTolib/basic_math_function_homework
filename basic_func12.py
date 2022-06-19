@@ -6,4 +6,4 @@ def main(a):
     a = floor(a)
     return a
 # Round the result to 2 decimal places.
-print(main(12.369854))
+print(main(12.36))
