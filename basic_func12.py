@@ -1,6 +1,6 @@
 # Create a function called main.
 # Create function argument a.
-from math import ceil, floor
+from math import ceil
 
 
 def main(a):
