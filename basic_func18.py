@@ -7,4 +7,4 @@ def main(a):
     
 # Round the result to 2 decimal places.
     return round(a,2)
-print(main(3.1415))
+print(main(5))
