@@ -3,7 +3,5 @@
 from math import abs
 def main(a,b):
 # Return the modulus of a and b.
-    x = abs(a)
-    y = abs(b)
-    return x,y
+    return abs(a,b)
 print(main(27,8))
